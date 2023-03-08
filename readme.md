@@ -1,5 +1,5 @@
 # Result
-If you wanna see the website we have here, find it on https://auralinux.xyz
+If you wanna what we have here, find it on https://auralinux.xyz
 
 # I wanna use this website !
 
